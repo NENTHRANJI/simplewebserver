@@ -36,9 +36,28 @@ Start the server script and check for errors.
 Open a browser and navigate to http://127.0.0.1:8000 (or the assigned port).
 
 ## PROGRAM:
-
+```
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Using Python's SimpleHTTPServer Module</title>
+ <style>
+ #rectangle {
+ height: 50px;
+ width: 100px;
+ background-color: #00f28f;
+ }
+ </style>
+</head>
+<body>
+ <h2>Rectangle served by SimpleHTTPServer</h2>
+ <div id="rectangle"></div>
+</body>
+</html>
+```
 
 ## OUTPUT:
+![Screenshot 2025-03-09 210558](https://github.com/user-attachments/assets/0169991e-329c-47ac-991a-15f711ffda6e)
 
 
 ## RESULT:
